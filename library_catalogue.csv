@@ -1,0 +1,21 @@
+book_id,title,author,category,keywords,description,availability
+1,Python Crash Course,Eric Matthes,Programming,python coding beginners,Learn Python programming from basics,Available
+2,Automate the Boring Stuff with Python,Al Sweigart,Programming,python automation scripts,Practical Python automation projects,Available
+3,Clean Code,Robert C Martin,Programming,software engineering coding,Principles of writing maintainable code,Available
+4,Introduction to Algorithms,Thomas H Cormen,Computer Science,algorithms dsa programming,Comprehensive algorithms textbook,Available
+5,Deep Learning,Ian Goodfellow,Artificial Intelligence,deep learning neural networks,Fundamentals of deep learning,Available
+6,Artificial Intelligence A Modern Approach,Stuart Russell,Artificial Intelligence,AI machine learning,Introduction to artificial intelligence,Available
+7,Hands On Machine Learning,Aurelien Geron,Machine Learning,ML python scikit learn,Practical machine learning techniques,Available
+8,Data Science from Scratch,Joel Grus,Data Science,python data analysis statistics,Data science concepts using Python,Available
+9,The Pragmatic Programmer,David Thomas,Programming,software development coding,Practical software development advice,Available
+10,Database System Concepts,Abraham Silberschatz,Database,SQL DBMS databases,Database management system concepts,Available
+11,Computer Networking,A S Tanenbaum,Networking,networks internet protocols,Computer networking fundamentals,Available
+12,Operating System Concepts,Abraham Silberschatz,Operating Systems,OS processes memory,Operating system fundamentals,Available
+13,The Psychology of Money,Morgan Housel,Finance,money investing psychology,Lessons about money and financial decisions,Available
+14,Atomic Habits,James Clear,Self Help,habits productivity improvement,Building good habits and breaking bad ones,Available
+15,Rich Dad Poor Dad,Robert Kiyosaki,Finance,finance wealth investment,Personal finance and wealth building,Available
+16,Ikigai,Francesc Miralles,Self Help,life purpose happiness,Finding purpose and meaning in life,Available
+17,Think and Grow Rich,Napoleon Hill,Self Help,success motivation goals,Principles of personal success,Available
+18,The Alchemist,Paulo Coelho,Fiction,novel adventure dreams,Story about following your dreams,Available
+19,1984,George Orwell,Fiction,dystopian novel society,Classic dystopian fiction novel,Available
+20,The Great Gatsby,F Scott Fitzgerald,Fiction,classic novel literature,Classic American literary novel,Available
